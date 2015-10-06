@@ -46,8 +46,8 @@ a.active {
 }
 
 h1,
+h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
@@ -325,13 +325,13 @@ section {
     padding: 100px 0;
 }
 
-section h2.section-heading {
+section h1.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
 }
 
-section h3.section-subheading {
+section h2.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -393,7 +393,7 @@ section h3.section-subheading {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h2,
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
 }
@@ -779,7 +779,7 @@ ul.social-buttons li a:active {
     box-shadow: none;
 }
 
-.portfolio-modal .modal-content h2 {
+.portfolio-modal .modal-content h1 {
     margin-bottom: 15px;
     font-size: 3em;
 }
