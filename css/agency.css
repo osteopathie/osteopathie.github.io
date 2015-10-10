@@ -327,6 +327,9 @@ section {
 section a.section-heading {
   color: inherit;
 }
+section a.color-inherit {
+  color: inherit;
+}
 section h1.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
