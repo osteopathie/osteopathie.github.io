@@ -870,3 +870,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+.osteopathie {
+  display:none;
+}
+
+@media(min-width:768px) {
+  .osteopathie {
+    display:inline;
+  }
+}
