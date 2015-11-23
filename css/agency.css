@@ -880,3 +880,13 @@ body {
     display:inline;
   }
 }
+
+.map {
+  display:none;
+}
+
+@media(min-width:768px) {
+  .map {
+    display:inline;
+  }
+}
