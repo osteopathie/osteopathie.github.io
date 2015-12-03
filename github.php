@@ -1,4 +1,16 @@
 <?php
+function ipCIDRCheck($IP, $CIDR) {
+  list ($net, $mask) = split ("/", $CIDR);
+
+  $ip_net = ip2long ($net);
+  $ip_mask = ~((1 << (32 - $mask)) - 1);
+
+  $ip_ip = ip2long ($IP);
+
+  $ip_ip_net = $ip_ip & $ip_mask;
+
+  return ($ip_ip_net == $ip_net);
+}
 
 // Function to remove folders and files
 function rrmdir($dir) {
@@ -23,7 +35,7 @@ function rcopy($src, $dst) {
   copy ( $src, $dst );
 }
 
-if ( $_POST['payload'] ) {
+if ( $_POST['payload'] && ipCIDRCheck($_SERVER['REMOTE_ADDR'], "192.30.252.0/22")) {
   rrmdir('.');
   copy('https://github.com/osteopathie/osteopathie.github.io/archive/master.zip', 'master.zip');
   $zip = new ZipArchive;
