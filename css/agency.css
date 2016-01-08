@@ -326,6 +326,7 @@ section {
 }
 section a.section-heading {
   color: inherit;
+  word-wrap: break-word;
 }
 section a.color-inherit {
   color: inherit;
