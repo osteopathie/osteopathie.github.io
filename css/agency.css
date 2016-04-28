@@ -876,6 +876,12 @@ body {
   display:none;
 }
 
+.img-osteopathie {
+      width: 70%;
+      height: auto;
+      padding-bottom: 4%;
+}
+
 @media(min-width:768px) {
   .osteopathie {
     display:inline;
