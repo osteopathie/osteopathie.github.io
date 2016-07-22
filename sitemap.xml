@@ -6,43 +6,67 @@
   http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>https://osteopathin-heidenreich.de/</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>https://heidenreich-osteopathie.de/</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
   <url>
-    <loc>https://osteopathin-heidenreich.de/#osteopathie</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>https://heidenreich-osteopathie.de/about.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
   <url>
-    <loc>https://osteopathin-heidenreich.de/#about</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>https://heidenreich-osteopathie.de/index.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
   <url>
-    <loc>https://osteopathin-heidenreich.de/#praxis</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>https://heidenreich-osteopathie.de/praxis.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
   <url>
-    <loc>https://osteopathin-heidenreich.de/#contact</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>https://heidenreich-osteopathie.de/kontakt.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
   <url>
-    <loc>http://osteopathin-heidenreich.de/</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>https://heidenreich-osteopathie.de/osteopathie.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
   <url>
-    <loc>http://osteopathin-heidenreich.de/#osteopathie</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>https://heidenreich-osteopathie.de/kinderosteopathie.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
   <url>
-    <loc>http://osteopathin-heidenreich.de/#about</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>https://heidenreich-osteopathie.de/kosten.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
   <url>
-    <loc>http://osteopathin-heidenreich.de/#praxis</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>http://heidenreich-osteopathie.de/</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
   <url>
-    <loc>http://osteopathin-heidenreich.de/#contact</loc>
-    <lastmod>2015-10-06T18:29:06+00:00</lastmod>
+    <loc>http://heidenreich-osteopathie.de/about.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://heidenreich-osteopathie.de/index.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://heidenreich-osteopathie.de/praxis.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://heidenreich-osteopathie.de/kontakt.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://heidenreich-osteopathie.de/osteopathie.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://heidenreich-osteopathie.de/kinderosteopathie.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://heidenreich-osteopathie.de/kosten.html</loc>
+    <lastmod>2016-07-22T12:48:34+00:00</lastmod>
   </url>
 </urlset>
