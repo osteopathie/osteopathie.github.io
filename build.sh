@@ -1,5 +1,12 @@
 #!/bin/bash
 for FILE in *.html; do
+  echo "Processing ${FILE}"
+  if [ "$FILE" == "google17c17b39e5bb1995.html" ]
+  then
+    echo "Skipping ${FILE}"
+    continue
+  fi
+
   perl -i -pe 'BEGIN{undef $/;} s/<!-- begin menu_items -->.*<!-- end menu_items -->/MENU_ITEMS/smg' $FILE
   sed -i '/MENU_ITEMS/r snippets/.menu_items.html' $FILE
   sed -i '/MENU_ITEMS/d' $FILE
