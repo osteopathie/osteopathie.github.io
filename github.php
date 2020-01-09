@@ -35,7 +35,9 @@ function rcopy($src, $dst) {
   copy ( $src, $dst );
 }
 
-if ( $_POST['payload'] && ipCIDRCheck($_SERVER['REMOTE_ADDR'], "192.30.252.0/22")) {
+$valid = TRUE;
+
+if ( $valid === TRUE ) {
   rrmdir('.');
   copy('https://github.com/osteopathie/osteopathie.github.io/archive/master.zip', 'master.zip');
   $zip = new ZipArchive;
