@@ -48,6 +48,7 @@ if ( $valid === TRUE ) {
     rcopy('osteopathie.github.io-master', '.');
     rrmdir('osteopathie.github.io-master');
     echo 'woot!';
+    file_put_contents('update.log', getdate() + ': ' + $_SERVER["REMOTE_ADDR"]);
   } else {
     echo 'doh!';
   }
