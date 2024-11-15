@@ -204,3 +204,24 @@ footer p {
         clear: both;
     }
 }
+
+#company-move-banner {
+    background-color: #FED136;
+    background-size: cover;
+    background-position: center;
+    color: #000000;
+}
+
+@media (max-width: 768px) {
+    #company-move-banner h1 {
+        font-size: 2.5rem;
+    }
+
+    #company-move-banner p {
+        font-size: 1rem;
+    }
+
+    .btn-lg {
+        font-size: 1.2rem;
+    }
+}
