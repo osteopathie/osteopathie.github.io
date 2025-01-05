@@ -1,56 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-  <url>
-    <loc>https://heidenreich-osteopathie.de/</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://heidenreich-osteopathie.de/about.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://heidenreich-osteopathie.de/index.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://heidenreich-osteopathie.de/kontakt.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://heidenreich-osteopathie.de/osteopathie.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://heidenreich-osteopathie.de/kinderosteopathie.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://heidenreich-osteopathie.de/</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://heidenreich-osteopathie.de/about.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://heidenreich-osteopathie.de/index.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://heidenreich-osteopathie.de/kontakt.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://heidenreich-osteopathie.de/osteopathie.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://heidenreich-osteopathie.de/kinderosteopathie.html</loc>
-    <lastmod>2018-09-08T09:48:34+00:00</lastmod>
-  </url>
+<!-- generator="Milkys Sitemap Generator, https://github.com/mcmilk/sitemap-generator" -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+ <loc>https://heidenreich-osteopathie.de/index.html</loc>
+ <lastmod>2025-01-05</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://heidenreich-osteopathie.de/kontakt.html</loc>
+ <lastmod>2025-01-05</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://heidenreich-osteopathie.de/datenschutz.html</loc>
+ <lastmod>2025-01-05</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://heidenreich-osteopathie.de/google17c17b39e5bb1995.html</loc>
+ <lastmod>2021-12-11</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
 </urlset>

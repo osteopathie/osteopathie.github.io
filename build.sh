@@ -29,3 +29,5 @@ for FILE in *.html; do
 
   tidy -xml --indent auto --indent-spaces 2 --quiet yes -modify --char-encoding utf8 $FILE
 done
+
+../sitemap-generator/sitemap.sh
